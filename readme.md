@@ -7,3 +7,7 @@ conditional_ddpm_mc_continous_exp.ipynb  is used to try different hyper paramete
 episode_2.csv episode_3.csv episode_4.csv are expert policy, i am creating more expert policy trajectories
 
 学习笔记.ipynb is the comprehension of conditional ddpm work 
+
+individual error calculation for imitation learning:
+
+doubt: lack of condition for instruction ???
